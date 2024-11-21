@@ -1,0 +1,1 @@
+ALTER TABLE "events" ADD COLUMN "location" text DEFAULT 'google_meet' NOT NULL;
